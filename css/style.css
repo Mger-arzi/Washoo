@@ -34,6 +34,7 @@ header{
     top:0;
     left:0;
     border-bottom: 2px solid silver;
+    z-index: 2;
 
 }
 
@@ -271,7 +272,6 @@ footer{
         display: none;
     }
     .features {
-        margin: 0px 15%;
         flex-wrap: wrap;
 
     }
